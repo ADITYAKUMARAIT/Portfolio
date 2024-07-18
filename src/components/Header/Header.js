@@ -27,7 +27,7 @@ const Header = ({ toggle }) => {
             className="btn PrimaryBtn"
             href="https://drive.google.com/file/d/1TzgwFMO_dyokeGCNMcokBDOSNZ5Tuc9r/view?usp=sharing"
             target="_blank"
-            rel="noopener noreferrer"
+              
           >
             Resume
           </a>
